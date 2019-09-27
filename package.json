@@ -229,7 +229,7 @@
     "npm": "^6.0.1",
     "prop-types": "15.6.1",
     "react": "16.3.2",
-    "react-dom": "16.3.2",
+    "react-dom": "16.3.3",
     "react-helmet": "5.2.0",
     "react-icons": "^2.2.7",
     "react-intl": "2.4.0",
