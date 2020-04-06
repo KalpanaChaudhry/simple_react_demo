@@ -222,7 +222,7 @@
     "jwt-decode": "^2.2.0",
     "lodash": "4.17.10",
     "material-ui": "^1.0.0-beta.42",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "mosca": "^2.8.1",
     "mqtt": "^2.17.0",
     "mqtt-react": "0.0.3",
